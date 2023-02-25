@@ -169,8 +169,12 @@
 
 //false => false; ''; 0; NaN; null; undefined;
 
-console.log(Boolean(undefined));
-console.log(Boolean(null));
+//console.log(Boolean(undefined));
+//console.log(Boolean(null));
+
+console.log(Boolean('men'));
+console.log(Boolean('1'));
+
 
 
 
