@@ -197,11 +197,18 @@
 //console.log(+a);
 //console.log(Number(a));
 //console.log(Number.parseFloat(a));
+//math
+//let a=8;
+//let b=4;//
+//console.log(a ** (1 / 3));
+
+//===================================================
+//pre/post decrement
 
 let a=8;
-let b=4;
 
-console.log(a ** (1 / 3));
+console.log(a++); //8
+console.log(a); //9
 
 
 
