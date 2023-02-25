@@ -168,12 +168,39 @@
 //console.log(`she` + a);
 
 //false => false; ''; 0; NaN; null; undefined;
-
+//===================== false
 //console.log(Boolean(undefined));
 //console.log(Boolean(null));
+//========== true
+//console.log(Boolean('men'));
+//console.log(Boolean('1'));
 
-console.log(Boolean('men'));
-console.log(Boolean('1'));
+let a=11;
+let b=122;
+
+console.log(a % b);
+console.log(b % a);
+console.log(a % a);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
