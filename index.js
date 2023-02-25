@@ -183,11 +183,14 @@
 ///console.log(a % a);
 //===================== type conversion
 //1)+; 2)Number; 3)parseint; 4)parsefloat;
+// =conversion
+//let a='12';//
+//console.log(typeof a);
+//console.log(typeof +a);
+//numbeer conversion 
+ let a='12.7';
 
-let a='12';
-
-console.log(typeof a);
-console.log(typeof +a);
+ console.log(Number(a));
 
 
 
