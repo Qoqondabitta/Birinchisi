@@ -191,8 +191,9 @@
 //console.log(Number(a));
 //parseint
 //console.log(Number.parseInt(a));
-let a='12.7';
+let a='12.7123s1232487';
 
+console.log(+a);
 console.log(Number(a));
 console.log(Number.parseFloat(a));
 
