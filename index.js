@@ -164,14 +164,14 @@
 //console.log(typeof c);
 
 //===============================================================
+//let a=`me`;//
+//console.log(`she` + a);
 
+//false => false; ''; 0; NaN; null; undefined;
 
+console.log(Boolean(undefined));
+console.log(Boolean(null));
 
-
-
-let a=`me`;
-
-console.log(`she` + a);
 
 
 
