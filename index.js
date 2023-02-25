@@ -174,14 +174,19 @@
 //========== true
 //console.log(Boolean('men'));
 //console.log(Boolean('1'));
+//=================== %=remainder
+///let a=11;
+///let b=122;
+///
+///console.log(a % b);
+///console.log(b % a);
+///console.log(a % a);
+//===================== type conversion
+//1)+; 2)Number; 3)parseint; 4)parsefloat;
 
-let a=11;
-let b=122;
+let a='12';
 
-console.log(a % b);
-console.log(b % a);
-console.log(a % a);
-
+console.log(+a);
 
 
 
