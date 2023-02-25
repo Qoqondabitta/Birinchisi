@@ -190,9 +190,11 @@
 //numbeer conversion 
 //console.log(Number(a));
 //parseint
+//console.log(Number.parseInt(a));
 let a='12.7';
 
-console.log(Number.parseInt(a));
+console.log(Number(a));
+console.log(Number.parseFloat(a));
 
 
 
