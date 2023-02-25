@@ -207,8 +207,8 @@
 
 let a=8;
 
-console.log(a++); //8
-console.log(a); //9
+console.log(++a); //8
+//console.log(a); //9
 
 
 
