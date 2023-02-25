@@ -188,11 +188,11 @@
 //console.log(typeof a);
 //console.log(typeof +a);
 //numbeer conversion 
- let a='12.7';
+//console.log(Number(a));
+//parseint
+let a='12.7';
 
- console.log(Number(a));
-
-
+console.log(Number.parseInt(a));
 
 
 
